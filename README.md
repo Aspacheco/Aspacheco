@@ -1,6 +1,6 @@
--  Hi, I’m @Aspacheco
--  I’m interested in app development, AI, and much more!
--  I’m currently learning C, Java, and Python, along with some Matlab and HTML
+-  Hi, I’m @Aspacheco and I am a programmer in the making.
+-  I’m interested in app development, AI, robotics and much more!
+-  I’m currently learning C, Java, and Python, along with HTML.
 -  I’m looking to collaborate on new projects and expand my learning
 -  How to reach me:
 - Email: ana_pache@outlook.com
